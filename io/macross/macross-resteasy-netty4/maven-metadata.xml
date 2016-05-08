@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.macross</groupId>
+  <artifactId>macross-resteasy-netty4</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160508134044</lastUpdated>
+  </versioning>
+</metadata>
